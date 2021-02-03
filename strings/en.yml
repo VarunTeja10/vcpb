@@ -37,7 +37,7 @@ inline_3: "Search Timed out! Try again."
 
 # Ban
 ban_1: "Give me a user's ID."
-ban_2: "Done, the bot will no longer respond to this user."
+ban_2: "Done, the bot will no longer respond to this idiot {Mention} ******."
 ban_3: "That didn't work, the user might be already banned or a sudo user."
 ban_4: "Oops, an error occured. See if you gave me a number."
 ban_5: "Unbanned, (s)he can use the bot now."
@@ -74,7 +74,7 @@ stream_4: "Streaming..."
 
 # TTS
 tts_1: "Give me some text to speak."
-tts_2: "Speaking..."
+tts_2: "I am Speaking... Dumb listen 😑."
 tts_3: "Spoke."
 
 # Skip
